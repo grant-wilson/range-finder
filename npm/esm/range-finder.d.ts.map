@@ -1,0 +1,1 @@
+{"version":3,"file":"range-finder.d.ts","sourceRoot":"","sources":["../src/range-finder.ts"],"names":[],"mappings":"AAEA,qBAAa,WAAW;;IAOV,QAAQ,CAAC,IAAI,EAAE,IAAI;gBAAV,IAAI,EAAE,IAAI;IAI/B,QAAQ,CACN,YAAY,EAAE,MAAM,GACnB,KAAK,GAAG,IAAI;IAef,OAAO,CACL,YAAY,EAAE,MAAM,GACnB,KAAK,EAAE;IAYV,KAAK;CA8CN"}

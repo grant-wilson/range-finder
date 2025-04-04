@@ -1,0 +1,25 @@
+{
+  "name": "@triangulum/range-finder",
+  "version": "1.0.0-alpha.1",
+  "description": "Find ranges of text within a node. Optimized for incremental searches.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grant-wilson/range-finder.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grant-wilson/range-finder/issues"
+  },
+  "main": "./script/index.js",
+  "module": "./esm/index.js",
+  "exports": {
+    ".": {
+      "import": "./esm/index.js",
+      "require": "./script/index.js"
+    }
+  },
+  "scripts": {
+    "publish": "npm publish --access public --tag next"
+  },
+  "_generatedBy": "dnt@dev"
+}

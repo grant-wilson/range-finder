@@ -1,0 +1,1 @@
+{"version":3,"file":"shared-tree-walker.d.ts","sourceRoot":"","sources":["../../src/internal/shared-tree-walker.ts"],"names":[],"mappings":"AAAA,qBAAa,gBAAgB;;IAcf,QAAQ,CAAC,IAAI,EAAE,IAAI;IAT/B,IAAW,WAAW,IAAI,IAAI,GAAG,IAAI,CAEpC;IAED,IAAW,WAAW,CAAC,CAAC,EAAE,IAAI,GAAG,IAAI,EAGpC;gBAEoB,IAAI,EAAE,IAAI;IAQ/B,QAAQ,IAAI,IAAI,GAAG,IAAI;CAIxB"}

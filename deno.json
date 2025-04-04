@@ -1,6 +1,6 @@
 {
   "tasks": {
-    "build:node": "deno run -A scripts/build-node.ts"
+    "build:npm": "deno run -A scripts/build-npm.ts"
   },
   "imports": {
     "@deno/dnt": "jsr:@deno/dnt@^0.41.3",
@@ -8,8 +8,8 @@
   },
   "compilerOptions": {
     "lib": [
-      "dom",
-      "es2022"
+      "DOM",
+      "ES2022"
     ]
   }
 }

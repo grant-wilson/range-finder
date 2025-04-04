@@ -1,0 +1,1 @@
+{"version":3,"file":"text-segment-walker.d.ts","sourceRoot":"","sources":["../../src/internal/text-segment-walker.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,MAAM,mBAAmB,CAAC;AAGhD,qBAAa,iBAAiB;;IAShB,QAAQ,CAAC,IAAI,EAAE,IAAI;IAJ/B,IAAW,cAAc,IAAI,WAAW,GAAG,IAAI,CAE9C;gBAEoB,IAAI,EAAE,IAAI;IAI/B,IAAI,IAAI,WAAW,GAAG,IAAI;IAmB1B,KAAK;CAIN"}
