@@ -1,0 +1,15 @@
+{
+  "tasks": {
+    "build:node": "deno run -A scripts/build-node.ts"
+  },
+  "imports": {
+    "@deno/dnt": "jsr:@deno/dnt@^0.41.3",
+    "@std/assert": "jsr:@std/assert@1"
+  },
+  "compilerOptions": {
+    "lib": [
+      "dom",
+      "es2022"
+    ]
+  }
+}
